@@ -5,7 +5,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World Checking Git!");
         Calendar calendar = Calendar.getInstance();
         int timeRangeInDays = 270;
         calendar.add(Calendar.DATE, -1 * (timeRangeInDays + 7));
