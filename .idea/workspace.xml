@@ -827,7 +827,7 @@
       <updated>1458286185559</updated>
       <workItem from="1458286188171" duration="711000" />
       <workItem from="1459238813949" duration="5050000" />
-      <workItem from="1459312434032" duration="18014000" />
+      <workItem from="1459312434032" duration="18139000" />
     </task>
     <task id="LOCAL-00001" summary="Joda-time">
       <created>1459752030514</created>
@@ -845,7 +845,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23775000" />
+    <option name="totallyTimeSpent" value="23900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
