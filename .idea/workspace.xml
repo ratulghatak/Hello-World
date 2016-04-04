@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="705c058f-1109-4011-9ce4-d965e85a5b20" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DropWizardFun/HelloWorldApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DropWizardFun/HelloWorldConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DropWizardFun/HelloWorldResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DropWizardFun/Saying.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DropWizardFun/TemplateHealthCheck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DropWizardFun/hello-world.yml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Hello World/Main.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hello World.iml" afterPath="$PROJECT_DIR$/Hello World.iml" />
     </list>
     <ignored path="Hello World.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -838,7 +827,7 @@
       <updated>1458286185559</updated>
       <workItem from="1458286188171" duration="711000" />
       <workItem from="1459238813949" duration="5050000" />
-      <workItem from="1459312434032" duration="17821000" />
+      <workItem from="1459312434032" duration="18014000" />
     </task>
     <task id="LOCAL-00001" summary="Joda-time">
       <created>1459752030514</created>
@@ -846,11 +835,17 @@
       <option name="project" value="LOCAL" />
       <updated>1459752030514</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DropWizard Hello World">
+      <created>1459752137824</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1459752137824</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23582000" />
+    <option name="totallyTimeSpent" value="23775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
@@ -897,7 +892,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Joda-time" />
-    <option name="LAST_COMMIT_MESSAGE" value="Joda-time" />
+    <MESSAGE value="DropWizard Hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="DropWizard Hello World" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
